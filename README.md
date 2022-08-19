@@ -1,7 +1,13 @@
 # Async-race
 
-SPA to manage the collection of the cars, operate its engines, and show races statistics
+### ***Учебный проект из курса [The Rolling Scopes  JavaScript/Front-end](https://rs.school/js/)***  
 
+## Описание проекта
+Приложение, чтобы управлять сбором автомобилей, управлять их двигателями и показывать статистику гонок  
+Ссылка на [задание](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md)
+
+
+ 
 Deploy: https://yaninaseb-async-race.netlify.app/
 
 Api for task: https://github.com/mikhama/async-race-api
